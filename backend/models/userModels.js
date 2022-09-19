@@ -6,4 +6,4 @@ const chatschema = new Schema({
     password:String
 })
 
-module.exports=model('users', chatschema);
+module.exports = model("users", chatschema);
