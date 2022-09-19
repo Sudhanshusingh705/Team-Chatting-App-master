@@ -1,0 +1,10 @@
+.bg-img{
+
+    background: url("Home.png");
+    height: 100%;
+    width: 100%;
+    background-size: contain;
+    background-position: center;
+    margin: 10px;
+    background-repeat: no-repeat;
+  }
